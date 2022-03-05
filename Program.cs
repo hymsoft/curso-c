@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-var age = 21;
+var age = 15;
 
 if (age >= 21)
 {
